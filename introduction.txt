@@ -1,8 +1,11 @@
 ZhiYang: 
 - 测试功能
 - 目前这个 Local Repo 是用 git clone <url> 写成的
+- Debug 内容，这段内容不应出现
 - 使用 git branch <branch-name>; git checkout <branch-name>; git push 来测试修改内容
 - 使用 git branch -D <local-branch-name> 删除 Local branch
 - 使用 git push origin -d <remote-branch-name> 删除 remote branch
 - 在 765baf0 新增一个 Commit
 - 测试二段内容
+- Debug 内容，这段内容应该出现
+- 这是一段用于测试 git stash 和 git stash pop 的新行
